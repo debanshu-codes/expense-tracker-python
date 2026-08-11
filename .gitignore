@@ -1,0 +1,10 @@
+# Ignore personal data file
+expenses.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore OS specific clutter
+.DS_Store
+Thumbs.db
